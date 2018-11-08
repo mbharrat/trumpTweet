@@ -1,0 +1,58 @@
+.Car {
+	fill: #C0C0C0;
+	font-weight: bold;
+    
+	
+}
+
+.Credit {
+	fill:#FF0000;
+	font-weight: bold;
+}
+
+.Debt{
+	fill: #800000;
+	font-weight: bold;
+}
+.Home{
+	fill: #D35400;
+	font-weight: bold;
+
+}
+.House{
+    fill: #808000;
+    font-weight: bold;
+}
+.Major{
+	fill: #00FF00;
+	font-weight: bold;
+}
+.Medical{
+	fill: #008000;
+	font-weight: bold;
+}
+.Moving{
+	fill: #00FFFF;
+	font-weight: bold;
+}
+.Other{
+	fill: #008080;
+	font-weight: bold;
+}
+.Renew{
+	fill: #0000FF;
+	font-weight: bold;
+}
+.Business{
+	fill: #000080;
+	font-weight: bold;
+}
+.Vacation{
+	fill: #FF00FF;
+	font-weight: bold;
+}
+.Wedding{
+	fill: #800080;
+	font-weight: bold;
+}
+
